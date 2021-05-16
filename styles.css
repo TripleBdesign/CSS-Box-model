@@ -10,17 +10,12 @@ header {
 }
 
 .onderheaderblok {
-  border: 5 px solid;
-  border-color: #e9a703;
+  border: 5px solid #e9a703;
   border-style: dotted;
   font-family: "Arial";
   font-style: oblique;
-  padding: 5px 10 px 5 px 10 px;
-  margin: 5 px 10 px;
-}
-
-p {
-  margin: 5px 10 px;
+  margin: 40px 5px 10px 80px;
+  padding: 10px;
 }
 
 .watblok {
