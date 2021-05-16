@@ -1,0 +1,33 @@
+header {
+  border-color: rgb(233, 36, 216);
+  border-style: dashed;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.headerblok {
+  word-spacing: 50px;
+
+}
+
+.fancy {
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  font-weight: bold;
+  font-style: oblique;
+  width: 80%;
+  margin: auto;
+}
+
+.onderheaderblok {
+  border-color; #e9a703;
+  border-style: dotted;
+  font-family: "Arial";
+  font-style: oblique;
+  padding: 5px 10 px 5 px 10 px;
+  margin: 5 px 10 px;
+
+}
+
+p {
+  margin: 5px 10 px
+}
